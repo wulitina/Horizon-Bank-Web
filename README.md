@@ -1,7 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![img.png](readme-pic%2Fimg.png)
+
 ## Getting Started
+![img.png](readme-pic%2Fimg.png)
+![img_1.png](readme-pic%2Fimg_1.png)
+![img_8.png](readme-pic%2Fimg_8.png)
+![img_2.png](readme-pic%2Fimg_2.png)
+![img_3.png](readme-pic%2Fimg_3.png)
+![img_5.png](readme-pic%2Fimg_5.png)
+![img_6.png](readme-pic%2Fimg_6.png)
+![img_7.png](readme-pic%2Fimg_7.png)
+
+
 
 First, run the development server:
 ```bash
@@ -9,6 +19,15 @@ npx create-next-app@latest ./ --typescript --tailwind --eslint
 ✔ Would you like to use `src/` directory? … No / Yes
 ✔ Would you like to use App Router? (recommended) … No / Yes
 ✔ Would you like to customize the default import alias (@/*)? … No / Yes
+
+npx shadcn-ui@latest init
+✔ Which style would you like to use? › Default
+✔ Which color would you like to use as base color? › Slate
+✔ Would you like to use CSS variables for colors? … no / yes
+
+npx shadcn-ui@latest init
+
+
 ```
 ```bash
 npm run dev
