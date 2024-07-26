@@ -3,7 +3,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
-
+```bash
+npx create-next-app@latest ./ --typescript --tailwind --eslint
+✔ Would you like to use `src/` directory? … No / Yes
+✔ Would you like to use App Router? (recommended) … No / Yes
+✔ Would you like to customize the default import alias (@/*)? … No / Yes
+```
 ```bash
 npm run dev
 # or
