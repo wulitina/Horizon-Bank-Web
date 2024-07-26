@@ -3,15 +3,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 ![img.png](readme-pic%2Fimg.png)
-![img_1.png](readme-pic%2Fimg_1.png)
-![img_8.png](readme-pic%2Fimg_8.png)
-![img_2.png](readme-pic%2Fimg_2.png)
-![img_3.png](readme-pic%2Fimg_3.png)
-![img_5.png](readme-pic%2Fimg_5.png)
-![img_6.png](readme-pic%2Fimg_6.png)
-![img_7.png](readme-pic%2Fimg_7.png)
-
-
+![Login.png](readme-pic%2FLogin.png)
+![Signup.png](readme-pic%2FSignup.png)
+![Dashboard.jpg](readme-pic%2FDashboard.jpg)
+![My Banks.jpg](readme-pic%2FMy%20Banks.jpg)
+![Transaction History.jpg](readme-pic%2FTransaction%20History.jpg)
+![Select-Account-Menu.png](readme-pic%2FSelect-Account-Menu.png)
+![Balance-Card-01.png](readme-pic%2FBalance-Card-01.png)
+![Balance-Card-02.png](readme-pic%2FBalance-Card-02.png)
+![Balance-Card-03.png](readme-pic%2FBalance-Card-03.png)
+![Payment Transfer.jpg](readme-pic%2FPayment%20Transfer.jpg)
 
 First, run the development server:
 ```bash
